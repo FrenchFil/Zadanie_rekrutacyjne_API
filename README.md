@@ -8,7 +8,7 @@ To repozytorium zawiera rozwiązanie zadania rekrutacyjnego – prostego API do 
 
 Aby uruchomić aplikację, należy najpierw utworzyć strukturę bazy danych PostgreSQL.
 
-Wykonaj poniższe polecenie w swojej bazie danych:
+Po utworzeniu bazy danych należy wykonać poniższe polecenie w swojej bazie danych:
 
 ```sql
 CREATE TABLE Todos (
