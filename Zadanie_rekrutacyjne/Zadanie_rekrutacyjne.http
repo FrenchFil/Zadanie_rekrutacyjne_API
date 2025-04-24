@@ -1,0 +1,6 @@
+@Zadanie_rekrutacyjne_HostAddress = http://localhost:5209
+
+GET {{Zadanie_rekrutacyjne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
